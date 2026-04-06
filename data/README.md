@@ -1,6 +1,6 @@
 # Data Folder
 
-Place the Headge fund dataset here after downloading from Kaggle.
+Place the Headge fund dataset here after downloading from Kaggle: https://www.kaggle.com/competitions/ts-forecasting
 
 This folder is intentionally left empty due to file size constraints.
 
