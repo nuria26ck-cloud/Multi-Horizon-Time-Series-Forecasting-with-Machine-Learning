@@ -126,6 +126,13 @@ Source: Hedge find -- Time-series forcasting: https://www.kaggle.com/competition
 - XGBoost performance constrained by categorical encoding  
 - Computational limitations:
   - Google Colab lacked sufficient RAM  
-  - Later stages completed using Kaggle notebooks  
+  - Later stages completed using Kaggle notebooks
+ 
+## Development Environment
+
+- Initial experimentation: Google Colab  
+- Final implementation: Kaggle Notebooks (due to memory constraints)  
+
+The notebooks folder in this repository reflects both the initial code done in Google Colab, and Kaggle Notebook. 
 
 
